@@ -1,0 +1,8 @@
+{
+  "label": "Learning plans",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Plans to pass"
+  }
+}
